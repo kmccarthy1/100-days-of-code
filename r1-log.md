@@ -17,9 +17,9 @@ Definitely don't fully feel comfortable with this CSS extension, but I'll finish
 it on projects in the future.
 
 ### R1D2 10-25-2019
-**Today's Progress**: 
+**Today's Progress**: Went from FreeCodeCamp's Front End Libraries to their Javascript Algorithms section. Made it almost halfway through that section because it's fairly long (110 exercises). 
 
-**Thoughts:**: 
+**Thoughts:**: Switched to JS because I thought it was a place I needed more help on (I do), but everything was incredibly basic. Going to try and finish it tomorrow and move on to the advanced ones
 
 ### R1D2 10-26-2019
 **Today's Progress**: 
