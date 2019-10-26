@@ -22,9 +22,10 @@ it on projects in the future.
 **Thoughts:**: Switched to JS because I thought it was a place I needed more help on (I do), but everything was incredibly basic. Going to try and finish it tomorrow and move on to the advanced ones
 
 ### R1D2 10-26-2019
-**Today's Progress**: 
+**Today's Progress**: Continued along freecodecamp's JS Algorithms. About 2/3 of the way. Got pretty distracted, but still set time 
+aside to focus, which is the important thing.
 
-**Thoughts:**: 
+**Thoughts:**: I want to start a small JS project after I'm done with this cert, but I'm not sure what to do. 
 
 ### R1D2 10-27-2019
 **Today's Progress**: 
