@@ -28,14 +28,14 @@ aside to focus, which is the important thing.
 **Thoughts:**: I want to start a small JS project after I'm done with this cert, but I'm not sure what to do. 
 
 ### R1D2 10-27-2019
-**Today's Progress**: 
+**Today's Progress**: Took my first dive into Express while doing more JS algorithms 
 
-**Thoughts:**: 
+**Thoughts:**: Need more Express practice
 
 ### R1D2 10-28-2019
-**Today's Progress**: 
+**Today's Progress**: Followed along to the Saturday lecture I missed on Express
 
-**Thoughts:**: 
+**Thoughts:**: Harder to follow along with when you're not in class.
 
 ### R1D2 10-29-2019
 **Today's Progress**: 
