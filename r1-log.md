@@ -38,9 +38,9 @@ aside to focus, which is the important thing.
 **Thoughts:**: Harder to follow along with when you're not in class.
 
 ### R1D2 10-29-2019
-**Today's Progress**: 
+**Today's Progress**: Finished an Amazonesque app using mySQL and nodeJS for homework
 
-**Thoughts:**: 
+**Thoughts:**: I wish I had tried for the challenge portion, but was rushing at the last minute
 
 ### R1D2 10-30-2019
 **Today's Progress**: 
