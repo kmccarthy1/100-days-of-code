@@ -43,9 +43,9 @@ aside to focus, which is the important thing.
 **Thoughts:**: I wish I had tried for the challenge portion, but was rushing at the last minute
 
 ### R1D2 10-30-2019
-**Today's Progress**: 
+**Today's Progress**: Updated Website / Portfolio with new content and changed CSS styling a bit
 
-**Thoughts:**: 
+**Thoughts:**: Still a long way to go before I want to send this to an employer
 
 ### R1D2 10-31-2019
 **Today's Progress**: 
