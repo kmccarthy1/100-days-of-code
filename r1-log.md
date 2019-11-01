@@ -48,9 +48,10 @@ aside to focus, which is the important thing.
 **Thoughts:**: Still a long way to go before I want to send this to an employer
 
 ### R1D2 10-31-2019
-**Today's Progress**: 
+**Today's Progress**: Did a tutorial designing a restaurant reservation app with nodeJS and mySQL
 
-**Thoughts:**: 
+**Thoughts:**: Didn't finish it, got stuck and will have to revisit. My server is up and running, it's on the right
+port, but can't find my home/reservation/table html files even though I have the same file structure as the tutorial...
 
 ### R1D2 11-01-2019
 **Today's Progress**: 
