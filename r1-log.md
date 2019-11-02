@@ -54,9 +54,10 @@ aside to focus, which is the important thing.
 port, but can't find my home/reservation/table html files even though I have the same file structure as the tutorial...
 
 ### R1D2 11-01-2019
-**Today's Progress**: 
+**Today's Progress**: Updated portfolio more and started a tutorial on a Flappy Bird game, but got stuck connecting my
+index html page to all the JS pages
 
-**Thoughts:**: 
+**Thoughts:**: frustrating, but also portfolio still isn't employer ready
 
 ### R1D2 11-02-2019
 **Today's Progress**: 
