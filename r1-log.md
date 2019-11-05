@@ -60,9 +60,10 @@ index html page to all the JS pages
 **Thoughts:**: frustrating, but also portfolio still isn't employer ready
 
 ### R1D2 11-02-2019
-**Today's Progress**: 
+**Today's Progress**: In class we introduced Handle bars for express and it was difficult to understand! Stil feel kinda lost on
+express as a whole. 
 
-**Thoughts:**: 
+**Thoughts:**: Hopefully express as  a whole will become clearer once I finish this next homework
 
 ### R1D2 11-03-2019
 **Today's Progress**: 
